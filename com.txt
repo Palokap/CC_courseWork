@@ -1,0 +1,3 @@
+antlr4 -Dlanguage=Python3 miniPascal.g4 -visitor
+
+cd C:\Users\simbd\Desktop\2sem\компиляторы\kursach\kursach\grammar
